@@ -1,0 +1,50 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.pyc
+
+# Dev artifacts
+*.swp
+*.bak
+*~
+*.swo
+
+
+# Generated
+dsu.py
+generated_*
+gen_*
+*egg-info*
+tags
+core
+*rdb
+typescript
+*ktt
+dsu.c
+dump.rdb
